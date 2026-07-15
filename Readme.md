@@ -270,4 +270,5 @@ This project is licensed under the terms specified in the [LICENSE](./LICENSE) f
 
 ## 👤 Author
 
-GitHub:
+**Priyanshi Choudhary**
+GitHub: [@Priyanshi0907](https://github.com/Priyanshi0907)
